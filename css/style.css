@@ -229,6 +229,7 @@ nav .right-div .menu-toggal i {
   flex-direction: column;
   justify-content: center;
   top: 135px;
+  width: 38%;
 }
 
 .home .home-content h1 {
