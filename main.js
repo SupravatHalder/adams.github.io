@@ -68,7 +68,7 @@ var swiper = new Swiper(".mySwiper", {
 
 var swiper2 = new Swiper(".mySwiper1", {
   slidesPerView: 1,
-  spaceBetween: 100,
+  spaceBetween: 55,
   autoplay: {
     delay: 2500,
     disableOnInteraction: false,
